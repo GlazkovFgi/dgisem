@@ -1,0 +1,3 @@
+steps_yesterday=8452
+steps_today=6783
+print(steps_yesterday+steps_today)
